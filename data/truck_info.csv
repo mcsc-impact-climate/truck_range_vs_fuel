@@ -1,0 +1,5 @@
+Info,Value,Source,Comment
+Tractor Volume (m^3),65,https://schneiderjobs.com/blog/semi-truck-trailer-dimensions,Assume tractor is a box of dimensions 13.5ft high x 8.5 ft wide x 20 ft long
+Tractor Mass (kg),7711,https://www.energy.gov/eere/vehicles/fact-620-april-26-2010-class-8-truck-tractor-weight-component,
+Max Gross Vehicle Weight (kg),36287.39,https://schneiderjobs.com/blog/how-much-does-a-semi-truck-weigh,"Maximum gross vehicle weight of 80,000 lb allowed by US Federal Highway Administration"
+Dry Van Volume (m^3),114.8,https://stronggroupusa.com/53-dry-van-dimensions-and-specifications/,Assumes standard dry van dimensions of 53 ft length x 8.5 ft width x 9 ft height

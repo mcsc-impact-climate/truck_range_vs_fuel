@@ -1,0 +1,5 @@
+Fuel,Energy Density (MJ / kg),Energy Density source,Mass Density (kg / m^3),Mass Density source
+Diesel,41.2,https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.308(73).pdf (LHV),900,https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MEPCDocuments/MEPC.308(73).pdf
+Hydrogen,120.0,GREET1_2023 (https://greet.anl.gov/greet_1_series) (LHV),38.73,https://cmb.tech/hydrogen-tools (compressed at 700 bar)
+CNG,47,https://afdc.energy.gov/fuels/properties,203.824,Using pressure and temperature specs (3600 PSI at 70F) from https://afdc.energy.gov/vehicles/natural-gas-filling-tanks and density calculator tool from https://www.unitrove.com/engineering/tools/gas/natural-gas-density
+Battery,0.954,https://web.archive.org/web/20230912025038/https://www.enpowerinc.com/tesla-battery-day-enpowers-take/,4800,https://www.imothep-project.eu/files/d4-9-final-battery-model-documentation.pdf
